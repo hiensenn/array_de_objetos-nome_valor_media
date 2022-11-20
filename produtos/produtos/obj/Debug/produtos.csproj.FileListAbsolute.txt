@@ -1,0 +1,8 @@
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\produtos\produtos\bin\Debug\produtos.exe.config
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\produtos\produtos\bin\Debug\produtos.exe
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\produtos\produtos\bin\Debug\produtos.pdb
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\produtos\produtos\obj\Debug\produtos.csproj.AssemblyReference.cache
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\produtos\produtos\obj\Debug\produtos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\produtos\produtos\obj\Debug\produtos.csproj.CoreCompileInputs.cache
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\produtos\produtos\obj\Debug\produtos.exe
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\produtos\produtos\obj\Debug\produtos.pdb
