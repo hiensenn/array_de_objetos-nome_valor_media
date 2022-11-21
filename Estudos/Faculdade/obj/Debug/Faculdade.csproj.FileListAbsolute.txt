@@ -1,0 +1,8 @@
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\Estudos\Faculdade\obj\Debug\Faculdade.csproj.AssemblyReference.cache
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\Estudos\Faculdade\obj\Debug\Faculdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\Estudos\Faculdade\obj\Debug\Faculdade.csproj.CoreCompileInputs.cache
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\Estudos\Faculdade\bin\Debug\Faculdade.exe.config
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\Estudos\Faculdade\bin\Debug\Faculdade.exe
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\Estudos\Faculdade\bin\Debug\Faculdade.pdb
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\Estudos\Faculdade\obj\Debug\Faculdade.exe
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista05\Estudos\Faculdade\obj\Debug\Faculdade.pdb
